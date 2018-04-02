@@ -28,3 +28,39 @@ E:\Coding Practice\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
 E:\Coding Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 E:\Coding Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 E:\Coding Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+E:\CodePractice\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+E:\CodePractice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+E:\CodePractice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\CodePractice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+E:\CodePractice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+E:\CodePractice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
